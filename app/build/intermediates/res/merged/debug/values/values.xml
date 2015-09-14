@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CoverFlow"><attr format="enum" name="orientation"><enum name="vertical" value="0"/><enum name="semicircle" value="1"/></attr></declare-styleable>
+    <!-- From: file:/C:/Android/Library/android-education-project/CoverFlowExample1/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">CoverFlowExample</string>
+</resources>
